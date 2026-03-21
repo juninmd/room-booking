@@ -1,0 +1,54 @@
+[[allowlist]]
+description = "False positive: generic-api-key in src/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/room-booking/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/room-booking/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/room-booking/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/room-booking/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/room-booking/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/room-booking/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/backend/room-booking/.vs/config/applicationhost.config"
+rules = ["generic-api-key"]
+paths = ["src/backend/room-booking/.vs/config/applicationhost.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/RoomBooking.Api/Web.config"
+rules = ["generic-api-key"]
+paths = ["src/RoomBooking.Api/Web.config"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in src/RoomBooking.Infraestructure/App.config"
+rules = ["generic-api-key"]
+paths = ["src/RoomBooking.Infraestructure/App.config"]
